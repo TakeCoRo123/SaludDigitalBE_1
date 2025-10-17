@@ -1,0 +1,712 @@
+id_paciente,nombre,edad,sexo,distrito,servicio,fecha_atencion,monto
+P0003,Paciente3,8,F,San Borja,Pediatría,2020-01-14,368.27
+P0010,Paciente10,77,M,San Borja,Odontología,2024-10-09,97.7
+P0017,Paciente17,28,M,Surco,Cardiología,2024-10-07,321.05
+P0019,Paciente19,14,F,Surco,Cardiología,2021-09-24,132.83
+P0020,Paciente20,16,F,La Molina,Pediatría,2020-04-25,423.95
+P0022,Paciente22,20,F,La Molina,Cardiología,2023-07-20,58.51
+P0024,Paciente24,16,F,San Borja,Medicina General,2022-11-05,156.46
+P0028,Paciente28,90,F,Miraflores,Pediatría,2020-09-10,201.44
+P0031,Paciente31,30,F,San Borja,Medicina General,2022-07-19,220.2
+P0038,Paciente38,25,M,La Molina,Pediatría,2024-07-12,231.84
+P0039,Paciente39,80,F,San Borja,Pediatría,2024-07-18,82.74
+P0041,Paciente41,47,F,Miraflores,Odontología,2023-02-28,86.02
+P0044,Paciente44,59,M,San Borja,Cardiología,2023-06-21,197.17
+P0045,Paciente45,26,M,Surco,Medicina General,2023-02-22,91.28
+P0047,Paciente47,42,M,Miraflores,Medicina General,2020-04-30,387.4
+P0049,Paciente49,12,M,La Molina,Odontología,2021-07-14,382.78
+P0061,Paciente61,25,F,Miraflores,Pediatría,2022-05-06,416.41
+P0067,Paciente67,45,F,Miraflores,Cardiología,2023-04-05,56.23
+P0073,Paciente73,14,F,Miraflores,Cardiología,2021-08-26,177.48
+P0074,Paciente74,18,F,Surco,Pediatría,2023-11-21,220.83
+P0076,Paciente76,1,M,Miraflores,Cardiología,2024-03-10,160.31
+P0079,Paciente79,29,F,La Molina,Pediatría,2021-12-22,263.31
+P0081,Paciente81,42,F,San Borja,Medicina General,2020-10-04,53.43
+P0086,Paciente86,68,M,San Borja,Pediatría,2020-02-03,266.35
+P0088,Paciente88,74,M,Surco,Cardiología,2024-12-14,328.55
+P0092,Paciente92,29,M,Miraflores,Medicina General,2020-04-02,401.86
+P0093,Paciente93,66,F,Miraflores,Pediatría,2020-11-23,360.17
+P0095,Paciente95,43,F,Miraflores,Pediatría,2021-03-20,79.17
+P0096,Paciente96,76,F,La Molina,Cardiología,2020-03-20,110.91
+P0102,Paciente102,35,M,Miraflores,Cardiología,2024-01-16,182.3
+P0108,Paciente108,4,F,Surco,Medicina General,2023-03-05,175.66
+P0113,Paciente113,78,F,La Molina,Cardiología,2020-11-02,145.22
+P0114,Paciente114,55,M,Surco,Cardiología,2022-07-30,340.9
+P0116,Paciente116,81,F,Surco,Pediatría,2020-02-20,403.27
+P0119,Paciente119,27,F,La Molina,Odontología,2020-04-20,418.94
+P0120,Paciente120,66,M,Miraflores,Medicina General,2021-05-25,122.0
+P0121,Paciente121,50,F,La Molina,Odontología,2024-08-26,436.57
+P0122,Paciente122,4,F,Surco,Cardiología,2023-04-28,55.11
+P0123,Paciente123,34,M,San Borja,Medicina General,2020-08-10,444.64
+P0125,Paciente125,36,F,Surco,Odontología,2023-11-10,286.7
+P0132,Paciente132,52,F,La Molina,Pediatría,2020-11-03,134.7
+P0137,Paciente137,55,F,San Borja,Odontología,2024-05-15,345.51
+P0140,Paciente140,74,F,San Borja,Medicina General,2022-01-17,318.29
+P0141,Paciente141,33,F,Surco,Pediatría,2023-10-21,254.17
+P0156,Paciente156,31,M,Surco,Odontología,2024-09-13,265.48
+P0160,Paciente160,10,M,La Molina,Medicina General,2021-06-29,309.24
+P0167,Paciente167,4,F,La Molina,Odontología,2020-01-02,331.75
+P0170,Paciente170,2,F,La Molina,Odontología,2021-04-25,403.74
+P0171,Paciente171,85,M,Surco,Cardiología,2021-05-05,133.45
+P0175,Paciente175,30,M,La Molina,Cardiología,2021-01-09,309.43
+P0177,Paciente177,3,M,Surco,Medicina General,2020-03-25,123.19
+P0179,Paciente179,69,F,La Molina,Medicina General,2022-08-29,476.19
+P0185,Paciente185,25,M,Surco,Cardiología,2023-08-08,395.33
+P0190,Paciente190,69,F,San Borja,Pediatría,2022-09-19,50.59
+P0191,Paciente191,82,M,San Borja,Pediatría,2023-12-29,254.81
+P0193,Paciente193,71,M,Surco,Medicina General,2021-09-21,322.02
+P0197,Paciente197,18,F,La Molina,Pediatría,2020-01-21,471.13
+P0208,Paciente208,58,M,Miraflores,Pediatría,2023-07-08,136.93
+P0211,Paciente211,29,M,San Borja,Pediatría,2021-06-13,221.64
+P0213,Paciente213,22,M,La Molina,Odontología,2021-03-20,326.15
+P0222,Paciente222,9,F,San Borja,Cardiología,2022-08-05,350.52
+P0225,Paciente225,79,F,La Molina,Odontología,2020-10-03,185.43
+P0227,Paciente227,64,F,San Borja,Pediatría,2021-02-18,292.25
+P0228,Paciente228,42,F,Surco,Cardiología,2024-03-25,91.12
+P0229,Paciente229,83,F,Surco,Cardiología,2020-07-20,453.9
+P0232,Paciente232,52,M,San Borja,Odontología,2020-10-17,476.18
+P0235,Paciente235,40,M,La Molina,Pediatría,2024-04-30,127.22
+P0239,Paciente239,3,F,La Molina,Medicina General,2022-09-11,224.6
+P0250,Paciente250,87,M,La Molina,Medicina General,2024-10-05,104.34
+P0257,Paciente257,83,F,La Molina,Cardiología,2024-02-27,444.14
+P0261,Paciente261,54,F,San Borja,Medicina General,2021-04-12,108.8
+P0266,Paciente266,86,M,Surco,Pediatría,2021-08-04,162.55
+P0267,Paciente267,65,M,San Borja,Odontología,2020-04-14,476.37
+P0273,Paciente273,20,M,Surco,Cardiología,2022-11-04,315.09
+P0278,Paciente278,25,F,La Molina,Odontología,2020-05-23,175.13
+P0285,Paciente285,73,M,San Borja,Pediatría,2022-04-13,199.86
+P0290,Paciente290,15,M,Surco,Medicina General,2022-07-28,240.98
+P0292,Paciente292,2,F,Miraflores,Odontología,2022-02-10,158.24
+P0294,Paciente294,22,M,San Borja,Medicina General,2020-12-12,442.58
+P0296,Paciente296,79,F,San Borja,Medicina General,2020-03-15,153.84
+P0302,Paciente302,46,M,La Molina,Medicina General,2021-09-22,298.71
+P0314,Paciente314,29,M,San Borja,Odontología,2022-04-19,379.76
+P0316,Paciente316,70,M,Surco,Odontología,2021-03-25,274.34
+P0324,Paciente324,40,M,San Borja,Odontología,2020-03-25,445.5
+P0326,Paciente326,34,F,Surco,Pediatría,2020-02-02,210.93
+P0327,Paciente327,40,M,Surco,Odontología,2023-12-22,193.37
+P0332,Paciente332,23,M,Surco,Cardiología,2020-01-12,264.62
+P0338,Paciente338,2,F,La Molina,Medicina General,2024-12-15,100.12
+P0342,Paciente342,77,F,Surco,Medicina General,2022-09-03,306.71
+P0344,Paciente344,15,F,La Molina,Medicina General,2021-01-19,300.92
+P0350,Paciente350,15,F,Surco,Odontología,2022-08-15,104.67
+P0355,Paciente355,3,M,Miraflores,Pediatría,2020-12-19,418.21
+P0357,Paciente357,58,F,La Molina,Odontología,2023-05-02,336.61
+P0359,Paciente359,48,M,La Molina,Medicina General,2020-06-23,251.02
+P0362,Paciente362,82,F,Miraflores,Medicina General,2021-11-04,424.27
+P0364,Paciente364,90,M,Miraflores,Pediatría,2021-02-10,331.06
+P0366,Paciente366,20,F,La Molina,Pediatría,2023-01-04,356.04
+P0367,Paciente367,13,M,Surco,Pediatría,2023-12-07,159.55
+P0368,Paciente368,17,M,La Molina,Pediatría,2023-11-12,322.04
+P0369,Paciente369,23,M,San Borja,Cardiología,2023-12-25,53.9
+P0379,Paciente379,78,F,Miraflores,Pediatría,2022-06-19,160.39
+P0385,Paciente385,58,M,Miraflores,Pediatría,2022-06-26,153.18
+P0394,Paciente394,46,M,Surco,Cardiología,2021-08-21,93.34
+P0397,Paciente397,15,F,Surco,Medicina General,2020-05-10,92.31
+P0399,Paciente399,59,F,Miraflores,Cardiología,2020-05-29,127.47
+P0401,Paciente401,4,F,Surco,Odontología,2024-11-27,387.84
+P0403,Paciente403,63,M,Surco,Pediatría,2021-10-28,409.85
+P0405,Paciente405,21,F,Surco,Odontología,2021-03-19,221.06
+P0408,Paciente408,65,F,La Molina,Medicina General,2024-06-28,159.77
+P0409,Paciente409,82,M,La Molina,Medicina General,2021-03-10,321.08
+P0417,Paciente417,39,F,Surco,Pediatría,2024-06-10,271.61
+P0419,Paciente419,72,F,La Molina,Pediatría,2023-11-24,386.57
+P0424,Paciente424,75,M,San Borja,Cardiología,2023-01-08,213.29
+P0426,Paciente426,73,M,Miraflores,Medicina General,2022-06-24,256.59
+P0431,Paciente431,82,M,Surco,Medicina General,2023-05-18,435.56
+P0442,Paciente442,46,F,San Borja,Pediatría,2020-01-08,468.49
+P0448,Paciente448,52,M,San Borja,Odontología,2023-09-04,95.85
+P0449,Paciente449,61,M,Miraflores,Medicina General,2024-10-25,276.13
+P0457,Paciente457,89,M,Surco,Odontología,2023-08-23,453.46
+P0458,Paciente458,63,M,La Molina,Odontología,2021-08-29,60.03
+P0460,Paciente460,22,M,San Borja,Pediatría,2024-10-17,169.72
+P0465,Paciente465,71,M,Surco,Medicina General,2022-11-22,357.94
+P0469,Paciente469,62,M,Miraflores,Medicina General,2023-07-04,231.99
+P0471,Paciente471,73,M,La Molina,Cardiología,2022-12-03,418.13
+P0475,Paciente475,56,F,La Molina,Pediatría,2020-09-24,434.67
+P0481,Paciente481,41,M,Miraflores,Pediatría,2021-06-21,320.27
+P0485,Paciente485,21,F,Miraflores,Odontología,2022-11-20,353.88
+P0486,Paciente486,64,F,Surco,Odontología,2021-08-24,51.61
+P0488,Paciente488,44,F,San Borja,Medicina General,2024-10-20,364.12
+P0493,Paciente493,65,F,Surco,Odontología,2021-11-11,108.63
+P0500,Paciente500,16,F,San Borja,Pediatría,2020-05-22,208.52
+P0503,Paciente503,65,M,Miraflores,Cardiología,2024-03-18,183.43
+P0505,Paciente505,33,F,La Molina,Pediatría,2022-06-21,498.5
+P0511,Paciente511,60,M,La Molina,Pediatría,2020-02-07,128.7
+P0512,Paciente512,53,F,La Molina,Cardiología,2020-04-14,247.21
+P0513,Paciente513,57,F,La Molina,Pediatría,2021-06-19,470.2
+P0527,Paciente527,14,F,La Molina,Cardiología,2022-10-15,336.61
+P0530,Paciente530,66,F,Surco,Medicina General,2021-04-19,421.86
+P0531,Paciente531,69,M,Miraflores,Pediatría,2024-12-22,66.73
+P0532,Paciente532,24,F,La Molina,Odontología,2021-01-09,423.7
+P0534,Paciente534,47,M,Miraflores,Pediatría,2020-10-26,198.57
+P0537,Paciente537,87,M,La Molina,Cardiología,2023-05-24,176.21
+P0541,Paciente541,20,F,La Molina,Cardiología,2021-10-06,307.97
+P0542,Paciente542,72,F,Surco,Cardiología,2024-03-03,477.2
+P0549,Paciente549,44,M,La Molina,Pediatría,2021-07-17,122.66
+P0556,Paciente556,1,M,La Molina,Pediatría,2024-12-26,240.03
+P0558,Paciente558,1,M,Surco,Odontología,2020-02-06,285.53
+P0563,Paciente563,4,F,Surco,Medicina General,2021-11-25,134.57
+P0564,Paciente564,13,F,San Borja,Pediatría,2024-07-25,141.86
+P0566,Paciente566,74,M,San Borja,Odontología,2021-11-29,294.6
+P0574,Paciente574,38,M,Miraflores,Odontología,2020-03-20,447.38
+P0577,Paciente577,11,F,Surco,Cardiología,2020-02-29,139.22
+P0578,Paciente578,48,F,Surco,Medicina General,2022-12-26,253.73
+P0584,Paciente584,52,M,La Molina,Pediatría,2023-03-19,205.09
+P0591,Paciente591,57,M,Surco,Odontología,2023-07-18,72.8
+P0592,Paciente592,59,M,La Molina,Odontología,2023-08-04,406.46
+P0596,Paciente596,77,F,Miraflores,Cardiología,2024-04-01,214.39
+P0597,Paciente597,62,M,Miraflores,Medicina General,2022-11-03,258.71
+P0603,Paciente603,65,F,Miraflores,Odontología,2021-10-17,82.87
+P0604,Paciente604,13,F,Miraflores,Odontología,2022-10-20,338.85
+P0608,Paciente608,82,F,Miraflores,Pediatría,2021-01-12,445.75
+P0614,Paciente614,35,F,Surco,Odontología,2021-06-17,107.47
+P0634,Paciente634,41,F,Miraflores,Odontología,2023-10-17,474.96
+P0645,Paciente645,67,M,Miraflores,Medicina General,2020-05-13,325.99
+P0648,Paciente648,74,F,La Molina,Odontología,2024-04-13,163.96
+P0652,Paciente652,44,M,Miraflores,Odontología,2024-12-12,439.19
+P0654,Paciente654,71,M,Miraflores,Medicina General,2020-01-07,103.84
+P0656,Paciente656,59,M,La Molina,Cardiología,2022-08-27,114.67
+P0659,Paciente659,62,F,Miraflores,Cardiología,2020-03-15,490.72
+P0664,Paciente664,64,F,Miraflores,Odontología,2020-03-20,433.17
+P0666,Paciente666,84,F,San Borja,Pediatría,2023-12-10,422.6
+P0672,Paciente672,17,F,La Molina,Pediatría,2020-02-20,216.42
+P0675,Paciente675,58,M,San Borja,Cardiología,2023-05-17,176.36
+P0676,Paciente676,52,F,La Molina,Medicina General,2024-05-29,420.93
+P0678,Paciente678,86,F,San Borja,Medicina General,2024-04-05,102.0
+P0680,Paciente680,12,M,Surco,Pediatría,2023-09-19,310.79
+P0697,Paciente697,55,M,Miraflores,Pediatría,2021-05-25,157.76
+P0698,Paciente698,78,M,Surco,Cardiología,2024-10-28,74.62
+P0705,Paciente705,82,F,San Borja,Medicina General,2022-09-25,306.05
+P0712,Paciente712,52,M,Surco,Odontología,2023-05-25,106.13
+P0713,Paciente713,41,F,Miraflores,Odontología,2020-01-09,471.16
+P0716,Paciente716,52,F,Miraflores,Medicina General,2020-04-13,144.92
+P0717,Paciente717,43,M,La Molina,Medicina General,2024-12-11,466.62
+P0718,Paciente718,19,M,Surco,Odontología,2023-06-04,158.69
+P0720,Paciente720,74,F,San Borja,Medicina General,2024-07-14,164.86
+P0722,Paciente722,39,F,Miraflores,Medicina General,2020-07-26,492.47
+P0730,Paciente730,71,M,Surco,Pediatría,2022-10-13,236.7
+P0740,Paciente740,42,F,Surco,Pediatría,2023-09-13,357.2
+P0742,Paciente742,58,M,La Molina,Pediatría,2023-01-05,121.62
+P0757,Paciente757,32,F,Surco,Pediatría,2021-12-15,446.38
+P0760,Paciente760,40,F,San Borja,Cardiología,2021-09-26,260.82
+P0761,Paciente761,44,F,Miraflores,Cardiología,2021-03-11,311.05
+P0765,Paciente765,34,M,San Borja,Pediatría,2022-05-31,52.72
+P0768,Paciente768,2,F,Surco,Pediatría,2023-07-06,389.38
+P0771,Paciente771,21,F,San Borja,Odontología,2023-05-13,107.92
+P0780,Paciente780,23,F,La Molina,Medicina General,2022-02-20,223.57
+P0781,Paciente781,63,M,Surco,Cardiología,2023-03-15,463.98
+P0790,Paciente790,61,F,La Molina,Odontología,2024-11-24,136.16
+P0791,Paciente791,40,F,Surco,Cardiología,2023-03-09,497.96
+P0796,Paciente796,51,M,Surco,Odontología,2021-06-07,437.85
+P0803,Paciente803,32,F,La Molina,Cardiología,2021-02-16,449.67
+P0809,Paciente809,54,F,Miraflores,Pediatría,2020-09-29,421.97
+P0811,Paciente811,75,M,Miraflores,Pediatría,2023-04-29,273.3
+P0820,Paciente820,88,F,Surco,Pediatría,2023-05-28,455.81
+P0829,Paciente829,47,M,San Borja,Cardiología,2024-10-01,285.98
+P0837,Paciente837,48,F,Surco,Pediatría,2020-05-21,220.49
+P0839,Paciente839,51,F,Miraflores,Medicina General,2023-05-03,182.08
+P0840,Paciente840,74,M,La Molina,Medicina General,2021-12-12,264.26
+P0846,Paciente846,87,F,San Borja,Cardiología,2020-02-20,454.04
+P0852,Paciente852,83,F,Miraflores,Odontología,2021-02-22,388.54
+P0853,Paciente853,22,M,La Molina,Pediatría,2023-03-08,494.7
+P0862,Paciente862,66,F,La Molina,Medicina General,2024-08-01,237.82
+P0864,Paciente864,45,F,Miraflores,Odontología,2020-09-06,464.25
+P0867,Paciente867,81,M,La Molina,Pediatría,2023-12-26,113.64
+P0872,Paciente872,72,M,San Borja,Cardiología,2024-07-17,420.24
+P0877,Paciente877,84,M,La Molina,Odontología,2020-12-23,266.84
+P0881,Paciente881,68,M,San Borja,Medicina General,2023-12-24,177.11
+P0885,Paciente885,71,F,Surco,Odontología,2020-10-05,472.76
+P0890,Paciente890,38,M,San Borja,Cardiología,2020-04-28,194.78
+P0891,Paciente891,16,M,San Borja,Cardiología,2020-05-04,435.14
+P0895,Paciente895,31,F,San Borja,Pediatría,2022-08-14,232.81
+P0897,Paciente897,50,M,San Borja,Pediatría,2020-09-16,437.73
+P0899,Paciente899,8,F,San Borja,Medicina General,2024-10-03,85.66
+P0903,Paciente903,41,M,San Borja,Pediatría,2020-03-28,325.86
+P0910,Paciente910,72,F,La Molina,Pediatría,2020-06-03,227.61
+P0914,Paciente914,7,M,San Borja,Cardiología,2022-04-14,157.76
+P0919,Paciente919,82,M,La Molina,Cardiología,2023-11-23,336.82
+P0923,Paciente923,54,F,Miraflores,Cardiología,2023-05-05,242.93
+P0925,Paciente925,53,F,Surco,Cardiología,2020-11-09,392.67
+P0929,Paciente929,82,F,Miraflores,Pediatría,2024-10-05,444.51
+P0932,Paciente932,26,F,La Molina,Odontología,2023-04-14,298.31
+P0934,Paciente934,75,F,Surco,Odontología,2023-11-17,204.5
+P0936,Paciente936,27,F,Surco,Pediatría,2024-11-16,184.76
+P0939,Paciente939,50,M,La Molina,Odontología,2020-09-17,198.34
+P0940,Paciente940,67,M,Surco,Cardiología,2021-03-08,408.05
+P0941,Paciente941,57,F,San Borja,Medicina General,2020-04-07,97.81
+P0944,Paciente944,57,F,Surco,Pediatría,2022-04-28,383.39
+P0946,Paciente946,59,F,La Molina,Medicina General,2020-12-31,424.04
+P0949,Paciente949,88,F,La Molina,Pediatría,2022-01-12,381.5
+P0951,Paciente951,34,F,Miraflores,Pediatría,2023-12-22,169.55
+P0952,Paciente952,21,F,Surco,Odontología,2023-10-31,109.57
+P0955,Paciente955,60,M,La Molina,Cardiología,2022-05-23,226.99
+P0974,Paciente974,53,M,La Molina,Medicina General,2021-12-07,111.49
+P0976,Paciente976,19,F,Miraflores,Medicina General,2020-12-18,359.67
+P0984,Paciente984,67,F,Miraflores,Medicina General,2023-08-14,342.85
+P0985,Paciente985,54,M,San Borja,Odontología,2023-11-27,433.45
+P0986,Paciente986,9,F,San Borja,Cardiología,2020-11-08,289.06
+P0988,Paciente988,17,F,Surco,Odontología,2023-04-17,80.59
+P0992,Paciente992,1,M,Miraflores,Medicina General,2023-09-21,421.48
+P0998,Paciente998,32,M,Surco,Pediatría,2023-03-06,398.07
+P0999,Paciente999,78,F,La Molina,Odontología,2021-12-16,146.99
+P1000,Paciente1000,17,M,Surco,Pediatría,2020-08-19,347.38
+P1001,Paciente1001,63,M,Miraflores,Odontología,2020-11-24,467.7
+P1005,Paciente1005,44,M,La Molina,Cardiología,2021-06-09,336.86
+P1008,Paciente1008,13,F,Surco,Medicina General,2024-08-27,325.77
+P1021,Paciente1021,88,F,La Molina,Odontología,2023-06-22,252.55
+P1022,Paciente1022,44,F,Surco,Medicina General,2022-04-11,205.35
+P1026,Paciente1026,28,F,Surco,Medicina General,2023-10-24,268.96
+P1043,Paciente1043,35,F,San Borja,Odontología,2023-02-28,415.0
+P1044,Paciente1044,20,F,Surco,Medicina General,2024-02-03,361.8
+P1045,Paciente1045,85,F,La Molina,Medicina General,2021-10-14,69.02
+P1047,Paciente1047,82,M,La Molina,Pediatría,2020-10-28,288.73
+P1048,Paciente1048,39,M,Surco,Odontología,2021-03-24,150.73
+P1053,Paciente1053,75,F,La Molina,Pediatría,2022-05-28,310.46
+P1066,Paciente1066,41,M,San Borja,Pediatría,2022-02-03,443.16
+P1072,Paciente1072,24,F,Surco,Odontología,2022-08-19,96.25
+P1073,Paciente1073,51,M,Miraflores,Odontología,2023-06-23,315.51
+P1076,Paciente1076,84,M,Miraflores,Cardiología,2024-12-03,384.66
+P1086,Paciente1086,52,F,Surco,Pediatría,2024-04-12,188.54
+P1090,Paciente1090,33,F,La Molina,Pediatría,2020-07-16,268.09
+P1097,Paciente1097,45,F,Miraflores,Medicina General,2020-04-21,160.45
+P1102,Paciente1102,74,M,Surco,Cardiología,2021-10-24,237.36
+P1103,Paciente1103,51,F,La Molina,Pediatría,2022-12-05,267.18
+P1105,Paciente1105,5,F,Miraflores,Medicina General,2020-12-16,389.11
+P1107,Paciente1107,65,M,La Molina,Medicina General,2021-05-09,208.42
+P1111,Paciente1111,56,M,Miraflores,Cardiología,2024-11-07,69.05
+P1113,Paciente1113,15,M,San Borja,Medicina General,2023-03-18,335.35
+P1114,Paciente1114,47,M,Surco,Cardiología,2024-12-22,460.83
+P1117,Paciente1117,66,M,La Molina,Pediatría,2024-10-19,124.04
+P1125,Paciente1125,41,M,La Molina,Odontología,2022-10-14,59.95
+P1136,Paciente1136,74,M,Surco,Medicina General,2021-01-21,103.0
+P1138,Paciente1138,42,F,La Molina,Odontología,2022-09-21,128.14
+P1139,Paciente1139,26,F,San Borja,Medicina General,2020-01-09,470.45
+P1140,Paciente1140,85,F,Surco,Pediatría,2022-06-25,312.11
+P1147,Paciente1147,20,F,San Borja,Cardiología,2023-08-02,117.3
+P1152,Paciente1152,61,F,Miraflores,Pediatría,2021-06-08,405.82
+P1157,Paciente1157,75,M,Miraflores,Medicina General,2020-02-16,364.0
+P1158,Paciente1158,35,F,Surco,Medicina General,2023-08-10,294.71
+P1166,Paciente1166,53,F,Miraflores,Cardiología,2024-05-25,221.89
+P1167,Paciente1167,58,F,Surco,Cardiología,2023-04-16,180.35
+P1168,Paciente1168,39,F,La Molina,Cardiología,2021-11-12,405.04
+P1169,Paciente1169,8,F,San Borja,Medicina General,2022-06-18,154.68
+P1174,Paciente1174,38,F,San Borja,Odontología,2022-08-25,257.28
+P1182,Paciente1182,43,M,La Molina,Cardiología,2021-08-31,489.22
+P1185,Paciente1185,26,M,Surco,Odontología,2021-07-24,241.8
+P1187,Paciente1187,15,F,Surco,Cardiología,2021-10-27,220.79
+P1192,Paciente1192,78,M,Surco,Medicina General,2020-04-05,464.62
+P1196,Paciente1196,49,F,Miraflores,Odontología,2023-12-27,484.99
+P1197,Paciente1197,69,M,Miraflores,Medicina General,2023-03-14,444.94
+P1204,Paciente1204,78,M,Miraflores,Pediatría,2024-03-09,312.6
+P1207,Paciente1207,18,F,La Molina,Cardiología,2024-09-01,85.02
+P1213,Paciente1213,68,M,La Molina,Medicina General,2023-04-01,343.54
+P1214,Paciente1214,69,M,La Molina,Medicina General,2020-07-30,244.51
+P1217,Paciente1217,79,F,La Molina,Odontología,2023-08-17,413.7
+P1218,Paciente1218,73,F,Miraflores,Odontología,2020-03-01,371.07
+P1221,Paciente1221,51,F,San Borja,Cardiología,2020-05-09,418.79
+P1227,Paciente1227,20,F,San Borja,Cardiología,2020-08-06,286.16
+P1234,Paciente1234,62,M,Surco,Medicina General,2020-05-11,433.03
+P1252,Paciente1252,25,F,Miraflores,Medicina General,2021-09-28,402.32
+P1253,Paciente1253,14,M,Surco,Medicina General,2023-05-24,111.92
+P1259,Paciente1259,36,F,Miraflores,Cardiología,2022-11-22,210.82
+P1262,Paciente1262,86,M,San Borja,Pediatría,2020-04-16,54.35
+P1266,Paciente1266,60,M,La Molina,Medicina General,2024-05-14,110.82
+P1267,Paciente1267,57,F,Surco,Cardiología,2022-04-16,498.95
+P1271,Paciente1271,81,F,Surco,Pediatría,2022-07-30,435.46
+P1272,Paciente1272,74,M,Surco,Pediatría,2024-04-27,116.73
+P1273,Paciente1273,87,F,La Molina,Medicina General,2020-05-02,458.78
+P1278,Paciente1278,12,M,Surco,Medicina General,2020-04-01,139.35
+P1281,Paciente1281,63,F,San Borja,Odontología,2023-11-02,253.67
+P1284,Paciente1284,60,M,La Molina,Pediatría,2020-03-31,208.86
+P1287,Paciente1287,55,M,San Borja,Pediatría,2024-11-19,253.75
+P1291,Paciente1291,24,F,San Borja,Cardiología,2023-02-25,67.51
+P1295,Paciente1295,9,M,San Borja,Medicina General,2020-01-12,182.47
+P1316,Paciente1316,24,M,La Molina,Medicina General,2024-01-17,51.95
+P1318,Paciente1318,34,M,La Molina,Odontología,2020-09-25,139.24
+P1332,Paciente1332,31,F,San Borja,Medicina General,2022-06-01,275.32
+P1340,Paciente1340,47,F,San Borja,Pediatría,2022-11-07,125.37
+P1341,Paciente1341,18,M,Miraflores,Medicina General,2021-02-27,317.64
+P1342,Paciente1342,38,F,La Molina,Medicina General,2023-04-20,249.83
+P1343,Paciente1343,3,M,San Borja,Medicina General,2024-07-27,222.66
+P1344,Paciente1344,23,F,Miraflores,Cardiología,2022-03-04,139.34
+P1346,Paciente1346,38,M,La Molina,Cardiología,2023-07-12,348.88
+P1351,Paciente1351,70,M,Surco,Cardiología,2020-08-19,220.8
+P1355,Paciente1355,34,M,Miraflores,Cardiología,2024-08-17,196.15
+P1357,Paciente1357,13,F,Surco,Medicina General,2020-08-04,260.1
+P1360,Paciente1360,85,M,Surco,Pediatría,2022-02-13,359.24
+P1361,Paciente1361,18,M,San Borja,Cardiología,2024-04-15,115.12
+P1381,Paciente1381,9,M,La Molina,Pediatría,2021-09-25,124.12
+P1384,Paciente1384,19,F,Surco,Odontología,2021-09-20,103.52
+P1387,Paciente1387,42,M,Surco,Pediatría,2021-06-29,93.86
+P1388,Paciente1388,27,M,Surco,Odontología,2024-03-05,69.67
+P1393,Paciente1393,20,M,Miraflores,Cardiología,2021-01-02,165.32
+P1397,Paciente1397,35,M,Surco,Odontología,2021-03-26,276.93
+P1400,Paciente1400,10,F,Miraflores,Odontología,2024-08-11,238.75
+P1403,Paciente1403,21,M,La Molina,Odontología,2021-12-30,483.35
+P1405,Paciente1405,34,F,Surco,Pediatría,2023-01-17,131.52
+P1411,Paciente1411,88,F,Surco,Cardiología,2024-10-23,258.79
+P1416,Paciente1416,63,M,San Borja,Pediatría,2023-04-27,54.4
+P1417,Paciente1417,5,M,Miraflores,Cardiología,2023-05-17,128.37
+P1419,Paciente1419,49,M,Surco,Cardiología,2022-12-14,204.03
+P1421,Paciente1421,25,M,La Molina,Odontología,2021-03-22,315.39
+P1422,Paciente1422,33,F,La Molina,Cardiología,2020-08-09,437.69
+P1431,Paciente1431,86,F,Surco,Pediatría,2020-04-15,240.48
+P1435,Paciente1435,36,F,Miraflores,Pediatría,2021-08-22,87.13
+P1438,Paciente1438,22,M,La Molina,Pediatría,2020-08-13,400.17
+P1441,Paciente1441,79,F,Surco,Medicina General,2023-03-16,315.93
+P1454,Paciente1454,31,M,Miraflores,Odontología,2020-09-17,452.98
+P1457,Paciente1457,25,F,La Molina,Odontología,2021-02-18,217.81
+P1460,Paciente1460,35,F,Surco,Odontología,2020-09-28,258.5
+P1462,Paciente1462,70,F,San Borja,Pediatría,2023-04-29,353.61
+P1463,Paciente1463,65,M,San Borja,Cardiología,2021-06-24,85.17
+P1464,Paciente1464,1,M,San Borja,Medicina General,2024-10-11,361.49
+P1468,Paciente1468,15,M,Surco,Cardiología,2022-11-18,452.4
+P1473,Paciente1473,67,F,San Borja,Medicina General,2023-04-19,480.84
+P1475,Paciente1475,50,M,Surco,Medicina General,2020-09-04,228.8
+P1479,Paciente1479,68,F,San Borja,Odontología,2024-05-04,375.85
+P1481,Paciente1481,42,F,Miraflores,Cardiología,2020-06-06,231.79
+P1483,Paciente1483,75,M,San Borja,Medicina General,2024-08-28,294.52
+P1484,Paciente1484,77,F,Surco,Pediatría,2021-01-11,180.11
+P1487,Paciente1487,38,F,Miraflores,Odontología,2020-05-19,418.34
+P1496,Paciente1496,6,M,Miraflores,Odontología,2020-02-11,89.88
+P1499,Paciente1499,74,F,Surco,Medicina General,2024-10-10,362.82
+P1501,Paciente1501,74,F,San Borja,Odontología,2020-04-03,245.6
+P1504,Paciente1504,87,F,San Borja,Cardiología,2023-12-07,197.24
+P1511,Paciente1511,73,F,San Borja,Medicina General,2023-10-13,167.29
+P1519,Paciente1519,44,M,La Molina,Odontología,2020-02-21,208.22
+P1529,Paciente1529,59,F,Surco,Odontología,2020-04-12,305.25
+P1531,Paciente1531,83,M,La Molina,Medicina General,2021-03-27,79.18
+P1537,Paciente1537,51,F,Miraflores,Pediatría,2023-09-28,112.67
+P1546,Paciente1546,88,M,San Borja,Medicina General,2024-10-02,91.13
+P1549,Paciente1549,87,F,Miraflores,Pediatría,2020-09-15,269.19
+P1556,Paciente1556,82,F,La Molina,Medicina General,2024-09-25,439.54
+P1568,Paciente1568,64,M,Miraflores,Odontología,2022-09-20,217.26
+P1574,Paciente1574,27,F,Miraflores,Pediatría,2021-11-08,265.41
+P1578,Paciente1578,49,F,Miraflores,Pediatría,2020-05-31,257.57
+P1588,Paciente1588,42,M,Miraflores,Odontología,2021-11-26,112.99
+P1589,Paciente1589,49,M,La Molina,Cardiología,2021-03-07,81.29
+P1594,Paciente1594,67,F,Surco,Medicina General,2024-09-17,108.48
+P1595,Paciente1595,74,F,Miraflores,Cardiología,2020-05-24,139.55
+P1601,Paciente1601,18,M,San Borja,Odontología,2023-03-19,163.4
+P1603,Paciente1603,78,M,Surco,Medicina General,2020-04-26,82.21
+P1608,Paciente1608,45,M,Miraflores,Odontología,2022-07-15,401.97
+P1609,Paciente1609,4,F,Miraflores,Medicina General,2021-11-09,226.77
+P1621,Paciente1621,16,M,Surco,Medicina General,2024-07-25,141.34
+P1625,Paciente1625,6,M,Miraflores,Odontología,2022-01-07,437.17
+P1629,Paciente1629,37,F,San Borja,Cardiología,2024-10-09,288.22
+P1635,Paciente1635,32,F,Surco,Cardiología,2023-06-25,441.9
+P1645,Paciente1645,59,M,San Borja,Cardiología,2023-01-23,66.3
+P1649,Paciente1649,64,M,Surco,Odontología,2020-01-19,290.0
+P1651,Paciente1651,56,F,Surco,Cardiología,2021-03-26,493.73
+P1655,Paciente1655,19,M,Miraflores,Odontología,2020-01-16,179.34
+P1662,Paciente1662,63,F,La Molina,Odontología,2021-11-20,244.91
+P1665,Paciente1665,67,M,Surco,Cardiología,2024-06-12,182.8
+P1672,Paciente1672,55,M,Surco,Pediatría,2020-07-18,342.9
+P1673,Paciente1673,22,F,La Molina,Cardiología,2023-10-30,480.7
+P1675,Paciente1675,17,F,Miraflores,Cardiología,2021-03-20,380.92
+P1679,Paciente1679,60,F,Surco,Pediatría,2021-03-16,147.46
+P1680,Paciente1680,52,F,Miraflores,Medicina General,2021-08-24,202.03
+P1690,Paciente1690,53,F,Surco,Odontología,2020-01-10,176.18
+P1695,Paciente1695,46,F,La Molina,Cardiología,2023-05-16,468.72
+P1697,Paciente1697,11,F,Miraflores,Cardiología,2020-07-21,424.74
+P1699,Paciente1699,57,M,Miraflores,Pediatría,2022-09-06,495.9
+P1705,Paciente1705,4,M,Surco,Cardiología,2023-02-28,322.1
+P1714,Paciente1714,86,F,Surco,Odontología,2021-09-01,83.51
+P1716,Paciente1716,85,M,San Borja,Medicina General,2024-09-26,192.02
+P1724,Paciente1724,76,M,Miraflores,Cardiología,2021-08-31,239.09
+P1725,Paciente1725,32,F,Surco,Odontología,2021-11-11,161.12
+P1736,Paciente1736,44,F,San Borja,Pediatría,2020-03-08,124.22
+P1738,Paciente1738,88,F,La Molina,Medicina General,2024-02-26,181.01
+P1743,Paciente1743,35,M,San Borja,Odontología,2020-09-09,95.62
+P1744,Paciente1744,16,F,La Molina,Odontología,2021-10-17,110.37
+P1745,Paciente1745,46,F,Miraflores,Medicina General,2022-06-07,61.85
+P1750,Paciente1750,65,F,San Borja,Odontología,2022-01-20,372.0
+P1751,Paciente1751,14,F,San Borja,Pediatría,2022-01-14,353.54
+P1752,Paciente1752,20,M,La Molina,Cardiología,2021-08-09,335.01
+P1753,Paciente1753,18,F,La Molina,Pediatría,2020-09-04,197.81
+P1758,Paciente1758,42,F,San Borja,Medicina General,2023-07-11,390.04
+P1762,Paciente1762,63,F,Miraflores,Medicina General,2024-11-10,96.25
+P1768,Paciente1768,88,F,San Borja,Odontología,2022-08-01,74.33
+P1770,Paciente1770,38,M,La Molina,Cardiología,2023-02-16,325.14
+P1771,Paciente1771,20,M,Miraflores,Cardiología,2024-07-21,327.47
+P1776,Paciente1776,58,F,La Molina,Odontología,2023-11-23,243.9
+P1777,Paciente1777,56,F,La Molina,Medicina General,2024-02-17,193.34
+P1780,Paciente1780,39,F,La Molina,Pediatría,2023-11-25,402.87
+P1784,Paciente1784,89,M,La Molina,Odontología,2022-03-09,203.66
+P1797,Paciente1797,74,M,Miraflores,Pediatría,2023-07-06,148.29
+P1798,Paciente1798,90,F,Surco,Odontología,2023-04-13,298.54
+P1802,Paciente1802,11,M,La Molina,Cardiología,2023-11-24,494.79
+P1816,Paciente1816,21,M,La Molina,Pediatría,2024-07-21,77.15
+P1820,Paciente1820,80,F,La Molina,Pediatría,2022-06-03,171.91
+P1835,Paciente1835,38,F,Surco,Pediatría,2020-10-21,203.73
+P1837,Paciente1837,38,M,San Borja,Medicina General,2022-01-28,467.51
+P1848,Paciente1848,83,F,La Molina,Odontología,2021-03-12,189.24
+P1852,Paciente1852,39,M,Miraflores,Odontología,2020-04-27,417.63
+P1853,Paciente1853,33,F,Surco,Odontología,2024-01-12,486.5
+P1860,Paciente1860,33,M,La Molina,Medicina General,2020-11-22,487.36
+P1861,Paciente1861,24,M,Miraflores,Odontología,2021-08-14,375.0
+P1863,Paciente1863,67,M,Miraflores,Medicina General,2021-12-05,121.28
+P1865,Paciente1865,57,F,Surco,Medicina General,2021-08-02,299.78
+P1871,Paciente1871,24,M,La Molina,Pediatría,2023-07-25,66.83
+P1872,Paciente1872,5,M,Surco,Medicina General,2023-05-01,138.33
+P1876,Paciente1876,71,M,Miraflores,Cardiología,2022-12-23,100.17
+P1879,Paciente1879,43,M,San Borja,Cardiología,2023-11-23,162.52
+P1883,Paciente1883,82,M,San Borja,Medicina General,2023-10-16,122.88
+P1884,Paciente1884,35,M,Surco,Pediatría,2022-06-22,457.94
+P1895,Paciente1895,74,F,Miraflores,Odontología,2021-11-25,202.73
+P1896,Paciente1896,88,F,Surco,Pediatría,2023-06-26,183.92
+P1897,Paciente1897,45,M,Surco,Medicina General,2022-12-06,232.79
+P1898,Paciente1898,68,F,Surco,Cardiología,2021-11-11,306.4
+P1903,Paciente1903,37,M,La Molina,Medicina General,2024-06-12,304.5
+P1905,Paciente1905,67,F,La Molina,Cardiología,2020-09-04,249.01
+P1907,Paciente1907,84,F,San Borja,Medicina General,2020-02-26,136.18
+P1915,Paciente1915,49,F,Miraflores,Medicina General,2022-09-29,254.92
+P1918,Paciente1918,54,F,Miraflores,Pediatría,2024-04-02,464.71
+P1921,Paciente1921,50,M,Surco,Cardiología,2020-09-28,83.71
+P1927,Paciente1927,88,M,La Molina,Medicina General,2023-04-15,417.17
+P1937,Paciente1937,24,M,Surco,Odontología,2023-06-25,359.47
+P1943,Paciente1943,68,M,La Molina,Cardiología,2023-04-16,356.53
+P1944,Paciente1944,81,M,La Molina,Cardiología,2023-10-16,341.07
+P1945,Paciente1945,63,F,Miraflores,Medicina General,2023-05-17,483.95
+P1946,Paciente1946,6,F,San Borja,Odontología,2023-06-29,109.54
+P1951,Paciente1951,48,F,San Borja,Odontología,2023-06-29,157.34
+P1954,Paciente1954,13,F,Miraflores,Medicina General,2023-01-14,68.37
+P1958,Paciente1958,79,F,Miraflores,Cardiología,2023-11-02,338.38
+P1959,Paciente1959,24,F,La Molina,Cardiología,2020-07-26,53.06
+P1967,Paciente1967,53,M,La Molina,Odontología,2020-04-12,218.47
+P1970,Paciente1970,45,F,Miraflores,Pediatría,2020-12-18,216.55
+P1971,Paciente1971,22,F,Miraflores,Pediatría,2020-03-28,416.35
+P1982,Paciente1982,35,M,Miraflores,Cardiología,2023-04-11,201.17
+P2004,Paciente2004,82,M,La Molina,Odontología,2024-01-07,72.27
+P2006,Paciente2006,81,F,Surco,Odontología,2023-06-21,92.44
+P2011,Paciente2011,5,F,Surco,Odontología,2020-05-25,79.16
+P2012,Paciente2012,37,M,San Borja,Cardiología,2022-03-31,168.14
+P2015,Paciente2015,14,M,Surco,Pediatría,2023-01-12,439.6
+P2018,Paciente2018,2,F,La Molina,Medicina General,2023-12-03,310.31
+P2021,Paciente2021,32,F,San Borja,Cardiología,2024-12-08,332.3
+P2036,Paciente2036,54,F,San Borja,Cardiología,2021-07-17,452.01
+P2037,Paciente2037,80,F,San Borja,Odontología,2022-10-31,451.95
+P2039,Paciente2039,57,M,Surco,Pediatría,2020-06-02,161.65
+P2040,Paciente2040,37,M,San Borja,Pediatría,2023-01-14,486.99
+P2044,Paciente2044,12,F,La Molina,Odontología,2020-02-25,392.74
+P2052,Paciente2052,34,M,Surco,Pediatría,2020-05-02,154.57
+P2053,Paciente2053,87,F,La Molina,Medicina General,2021-12-31,359.96
+P2055,Paciente2055,86,F,Miraflores,Pediatría,2024-03-14,405.15
+P2057,Paciente2057,75,M,Miraflores,Pediatría,2022-02-04,84.39
+P2063,Paciente2063,82,M,San Borja,Pediatría,2023-01-09,467.05
+P2064,Paciente2064,5,F,Surco,Pediatría,2020-01-23,140.84
+P2065,Paciente2065,87,M,La Molina,Medicina General,2022-11-11,236.86
+P2071,Paciente2071,79,F,San Borja,Medicina General,2021-04-11,267.17
+P2072,Paciente2072,1,M,San Borja,Cardiología,2024-06-09,489.83
+P2073,Paciente2073,54,F,La Molina,Cardiología,2023-01-21,265.81
+P2075,Paciente2075,61,M,Surco,Odontología,2022-12-22,180.37
+P2077,Paciente2077,64,M,La Molina,Medicina General,2020-03-17,170.0
+P2078,Paciente2078,27,M,Miraflores,Odontología,2021-04-01,434.62
+P2079,Paciente2079,87,F,Miraflores,Odontología,2024-10-11,379.0
+P2082,Paciente2082,25,F,Surco,Odontología,2020-10-15,113.62
+P2084,Paciente2084,43,M,Miraflores,Pediatría,2023-09-12,484.38
+P2086,Paciente2086,37,M,San Borja,Medicina General,2024-06-13,79.31
+P2093,Paciente2093,7,F,La Molina,Pediatría,2024-01-25,113.19
+P2096,Paciente2096,81,M,San Borja,Medicina General,2024-08-26,220.98
+P2097,Paciente2097,22,F,Miraflores,Cardiología,2021-07-30,264.16
+P2101,Paciente2101,77,M,Miraflores,Cardiología,2023-01-19,301.44
+P2103,Paciente2103,9,M,San Borja,Odontología,2023-10-23,209.27
+P2107,Paciente2107,34,F,Miraflores,Odontología,2023-08-18,52.8
+P2111,Paciente2111,77,M,La Molina,Cardiología,2022-09-05,406.1
+P2114,Paciente2114,62,M,Miraflores,Pediatría,2023-07-28,485.4
+P2118,Paciente2118,14,F,La Molina,Cardiología,2020-01-07,295.44
+P2120,Paciente2120,81,F,Surco,Medicina General,2023-08-05,446.92
+P2123,Paciente2123,6,F,San Borja,Odontología,2023-11-06,161.65
+P2125,Paciente2125,76,M,Surco,Cardiología,2020-01-24,448.85
+P2126,Paciente2126,19,M,La Molina,Pediatría,2022-08-26,242.04
+P2127,Paciente2127,48,F,San Borja,Medicina General,2023-04-01,298.47
+P2130,Paciente2130,77,F,La Molina,Cardiología,2022-02-17,267.0
+P2132,Paciente2132,25,M,Miraflores,Pediatría,2023-10-21,158.47
+P2141,Paciente2141,40,F,San Borja,Odontología,2021-01-17,134.73
+P2150,Paciente2150,9,M,San Borja,Medicina General,2022-08-11,213.0
+P2152,Paciente2152,24,F,La Molina,Cardiología,2021-10-07,433.14
+P2153,Paciente2153,7,F,Surco,Medicina General,2020-12-17,167.79
+P2156,Paciente2156,20,M,Miraflores,Odontología,2023-06-01,304.08
+P2157,Paciente2157,74,F,Miraflores,Odontología,2020-02-14,58.74
+P2161,Paciente2161,52,F,San Borja,Pediatría,2021-06-15,119.61
+P2169,Paciente2169,69,F,Surco,Medicina General,2023-12-13,330.27
+P2171,Paciente2171,80,F,San Borja,Pediatría,2020-05-27,493.64
+P2174,Paciente2174,19,M,Miraflores,Pediatría,2020-12-26,378.88
+P2176,Paciente2176,19,M,Miraflores,Pediatría,2023-11-07,54.74
+P2179,Paciente2179,55,M,San Borja,Pediatría,2024-04-29,181.26
+P2183,Paciente2183,27,M,La Molina,Medicina General,2020-03-30,361.62
+P2186,Paciente2186,6,M,Miraflores,Medicina General,2020-02-18,66.55
+P2189,Paciente2189,21,M,San Borja,Odontología,2024-12-31,173.55
+P2197,Paciente2197,33,F,San Borja,Cardiología,2020-02-10,115.44
+P2198,Paciente2198,29,M,La Molina,Cardiología,2020-08-05,384.05
+P2207,Paciente2207,81,M,Surco,Pediatría,2020-05-06,317.37
+P2208,Paciente2208,68,M,San Borja,Medicina General,2022-05-31,358.45
+P2210,Paciente2210,12,M,Surco,Odontología,2023-12-01,91.44
+P2212,Paciente2212,42,F,San Borja,Odontología,2023-12-09,107.59
+P2214,Paciente2214,38,M,Miraflores,Medicina General,2021-03-02,226.58
+P2215,Paciente2215,39,M,Surco,Medicina General,2022-10-22,81.4
+P2217,Paciente2217,44,F,La Molina,Medicina General,2024-12-25,464.3
+P2219,Paciente2219,6,M,San Borja,Cardiología,2022-09-03,293.98
+P2220,Paciente2220,28,F,Miraflores,Cardiología,2022-02-20,335.31
+P2224,Paciente2224,69,F,La Molina,Odontología,2022-01-19,144.93
+P2225,Paciente2225,55,F,Miraflores,Odontología,2020-04-01,328.39
+P2226,Paciente2226,66,F,Miraflores,Cardiología,2021-09-14,435.83
+P2235,Paciente2235,7,M,San Borja,Pediatría,2022-04-05,227.08
+P2236,Paciente2236,89,F,Miraflores,Pediatría,2022-02-12,101.03
+P2244,Paciente2244,84,M,La Molina,Pediatría,2022-01-16,160.05
+P2246,Paciente2246,46,F,La Molina,Pediatría,2024-10-26,379.9
+P2256,Paciente2256,17,F,San Borja,Pediatría,2023-03-10,67.33
+P2278,Paciente2278,3,F,San Borja,Cardiología,2024-09-24,413.84
+P2283,Paciente2283,22,F,Surco,Odontología,2021-01-30,212.79
+P2285,Paciente2285,54,M,Miraflores,Odontología,2021-12-05,134.63
+P2291,Paciente2291,56,F,La Molina,Cardiología,2023-01-18,499.51
+P2298,Paciente2298,33,M,San Borja,Cardiología,2020-12-22,367.79
+P2299,Paciente2299,78,F,San Borja,Cardiología,2024-02-16,382.92
+P2302,Paciente2302,83,F,Miraflores,Medicina General,2024-11-09,380.22
+P2310,Paciente2310,7,M,San Borja,Cardiología,2024-04-03,324.68
+P2312,Paciente2312,70,M,Surco,Cardiología,2022-03-26,76.81
+P2317,Paciente2317,43,M,San Borja,Odontología,2023-01-30,302.08
+P2325,Paciente2325,2,F,Surco,Medicina General,2022-02-10,394.02
+P2336,Paciente2336,43,M,La Molina,Odontología,2023-02-08,414.86
+P2338,Paciente2338,23,M,San Borja,Pediatría,2024-08-10,338.02
+P2339,Paciente2339,75,M,La Molina,Medicina General,2022-05-15,253.93
+P2346,Paciente2346,52,F,La Molina,Odontología,2020-11-09,212.84
+P2347,Paciente2347,85,M,Miraflores,Pediatría,2020-10-18,107.2
+P2350,Paciente2350,29,F,La Molina,Medicina General,2024-04-27,165.56
+P2360,Paciente2360,89,F,San Borja,Odontología,2023-08-31,206.2
+P2363,Paciente2363,4,F,Miraflores,Odontología,2022-10-03,498.48
+P2366,Paciente2366,84,M,Miraflores,Medicina General,2024-06-17,186.92
+P2372,Paciente2372,11,M,Miraflores,Cardiología,2024-10-10,405.74
+P2374,Paciente2374,34,F,Miraflores,Odontología,2022-11-20,57.52
+P2377,Paciente2377,90,M,Surco,Medicina General,2024-03-12,304.16
+P2378,Paciente2378,9,F,Miraflores,Medicina General,2024-07-24,71.16
+P2389,Paciente2389,55,F,Miraflores,Pediatría,2022-11-18,375.9
+P2405,Paciente2405,64,M,Surco,Medicina General,2020-02-01,336.35
+P2406,Paciente2406,68,M,San Borja,Cardiología,2023-08-26,345.93
+P2410,Paciente2410,50,M,La Molina,Medicina General,2023-08-30,231.04
+P2412,Paciente2412,14,F,San Borja,Pediatría,2022-09-02,180.74
+P2414,Paciente2414,76,F,La Molina,Odontología,2021-10-26,151.95
+P2417,Paciente2417,22,F,Surco,Odontología,2023-02-21,241.7
+P2419,Paciente2419,69,F,La Molina,Medicina General,2021-01-30,348.55
+P2425,Paciente2425,59,M,Miraflores,Cardiología,2022-01-12,155.77
+P2427,Paciente2427,88,F,San Borja,Pediatría,2021-04-14,264.25
+P2431,Paciente2431,31,M,Surco,Pediatría,2022-03-09,232.47
+P2435,Paciente2435,60,M,Miraflores,Pediatría,2020-05-09,259.72
+P2438,Paciente2438,63,F,Surco,Medicina General,2020-02-19,198.68
+P2440,Paciente2440,61,F,San Borja,Cardiología,2020-07-13,419.62
+P2441,Paciente2441,37,F,San Borja,Odontología,2024-12-27,158.87
+P2447,Paciente2447,87,M,Surco,Cardiología,2023-04-26,193.59
+P2452,Paciente2452,30,M,San Borja,Odontología,2023-09-29,214.97
+P2454,Paciente2454,35,F,Miraflores,Pediatría,2024-06-04,66.02
+P2458,Paciente2458,35,M,San Borja,Cardiología,2024-03-14,260.5
+P2462,Paciente2462,39,F,La Molina,Medicina General,2023-06-30,240.66
+P2466,Paciente2466,30,F,Miraflores,Cardiología,2023-03-07,386.06
+P2471,Paciente2471,23,M,La Molina,Odontología,2024-10-06,285.83
+P2472,Paciente2472,84,M,Miraflores,Cardiología,2024-10-19,187.75
+P2477,Paciente2477,65,F,La Molina,Odontología,2020-12-27,453.25
+P2483,Paciente2483,28,F,Miraflores,Odontología,2021-09-22,223.94
+P2490,Paciente2490,63,F,Miraflores,Odontología,2024-02-18,405.85
+P2492,Paciente2492,3,F,Surco,Cardiología,2023-11-21,52.23
+P2495,Paciente2495,4,M,La Molina,Odontología,2021-08-07,80.98
+P2496,Paciente2496,25,M,Miraflores,Cardiología,2021-02-20,316.79
+P2501,Paciente2501,27,F,San Borja,Medicina General,2023-09-24,95.3
+P2503,Paciente2503,56,M,San Borja,Cardiología,2023-04-29,392.42
+P2509,Paciente2509,21,F,Miraflores,Cardiología,2020-12-15,380.96
+P2511,Paciente2511,42,F,Surco,Odontología,2020-05-19,339.6
+P2512,Paciente2512,36,M,Surco,Odontología,2022-04-05,290.98
+P2517,Paciente2517,77,F,San Borja,Pediatría,2021-01-17,442.35
+P2523,Paciente2523,42,M,San Borja,Cardiología,2024-04-30,258.96
+P2531,Paciente2531,60,M,Surco,Pediatría,2020-10-14,164.78
+P2540,Paciente2540,54,M,Miraflores,Odontología,2022-02-08,436.04
+P2542,Paciente2542,33,F,Surco,Odontología,2020-02-15,243.77
+P2549,Paciente2549,85,M,San Borja,Medicina General,2021-05-16,291.13
+P2554,Paciente2554,1,F,Surco,Odontología,2022-07-08,461.31
+P2560,Paciente2560,62,M,Miraflores,Odontología,2022-06-02,134.21
+P2562,Paciente2562,15,M,Surco,Cardiología,2022-06-15,480.62
+P2563,Paciente2563,90,F,San Borja,Odontología,2021-03-13,280.17
+P2564,Paciente2564,33,F,San Borja,Odontología,2023-03-13,124.92
+P2566,Paciente2566,83,M,La Molina,Medicina General,2024-08-21,407.28
+P2571,Paciente2571,53,F,La Molina,Medicina General,2020-02-19,69.37
+P2588,Paciente2588,8,M,La Molina,Medicina General,2021-11-18,275.82
+P2589,Paciente2589,52,M,Miraflores,Odontología,2024-05-30,397.52
+P2601,Paciente2601,2,M,Miraflores,Pediatría,2023-05-18,412.65
+P2602,Paciente2602,65,M,La Molina,Cardiología,2020-06-15,166.73
+P2604,Paciente2604,22,F,San Borja,Odontología,2020-08-24,473.35
+P2606,Paciente2606,44,M,Surco,Cardiología,2020-07-23,189.58
+P2607,Paciente2607,53,M,Surco,Pediatría,2023-08-11,458.81
+P2621,Paciente2621,30,F,San Borja,Medicina General,2023-01-10,373.7
+P2624,Paciente2624,19,M,Surco,Pediatría,2022-01-08,222.04
+P2630,Paciente2630,18,M,La Molina,Pediatría,2020-05-20,197.89
+P2635,Paciente2635,69,M,La Molina,Pediatría,2023-11-16,427.04
+P2639,Paciente2639,58,F,Miraflores,Pediatría,2020-01-29,240.94
+P2662,Paciente2662,44,F,San Borja,Pediatría,2023-01-06,62.92
+P2666,Paciente2666,6,F,San Borja,Pediatría,2021-12-27,201.26
+P2671,Paciente2671,11,F,Surco,Pediatría,2023-07-17,112.06
+P2672,Paciente2672,29,M,San Borja,Pediatría,2024-09-19,433.35
+P2675,Paciente2675,45,M,Surco,Medicina General,2021-09-17,442.0
+P2676,Paciente2676,19,F,Surco,Medicina General,2021-11-26,464.58
+P2677,Paciente2677,1,F,La Molina,Pediatría,2020-12-09,329.5
+P2688,Paciente2688,27,F,Surco,Pediatría,2024-03-07,119.09
+P2690,Paciente2690,10,F,San Borja,Cardiología,2022-03-10,255.45
+P2692,Paciente2692,57,F,Miraflores,Odontología,2022-06-27,453.97
+P2693,Paciente2693,13,M,San Borja,Medicina General,2024-05-12,137.43
+P2694,Paciente2694,68,F,San Borja,Medicina General,2024-03-02,427.45
+P2709,Paciente2709,74,M,San Borja,Pediatría,2020-08-08,57.91
+P2711,Paciente2711,48,F,San Borja,Pediatría,2024-08-30,88.51
+P2712,Paciente2712,63,M,Surco,Odontología,2020-02-10,319.1
+P2716,Paciente2716,90,F,La Molina,Medicina General,2024-01-10,79.07
+P2722,Paciente2722,73,M,Miraflores,Cardiología,2020-05-16,52.97
+P2724,Paciente2724,33,M,San Borja,Pediatría,2020-01-02,357.36
+P2730,Paciente2730,23,M,Miraflores,Medicina General,2021-06-05,284.17
+P2731,Paciente2731,51,F,Miraflores,Medicina General,2023-12-20,398.81
+P2736,Paciente2736,45,M,San Borja,Cardiología,2020-01-27,247.23
+P2739,Paciente2739,45,F,La Molina,Pediatría,2022-04-28,140.51
+P2748,Paciente2748,26,F,La Molina,Medicina General,2022-01-20,150.91
+P2756,Paciente2756,89,F,La Molina,Pediatría,2024-02-13,212.38
+P2762,Paciente2762,33,M,La Molina,Cardiología,2021-01-16,445.39
+P2764,Paciente2764,63,F,Surco,Pediatría,2020-09-23,213.13
+P2774,Paciente2774,46,M,Miraflores,Cardiología,2020-07-18,257.89
+P2775,Paciente2775,77,F,San Borja,Odontología,2020-03-01,87.82
+P2781,Paciente2781,48,M,San Borja,Medicina General,2021-05-31,442.4
+P2783,Paciente2783,77,M,Miraflores,Medicina General,2022-03-15,64.53
+P2785,Paciente2785,90,F,Miraflores,Medicina General,2020-05-11,403.65
+P2787,Paciente2787,50,F,Miraflores,Pediatría,2022-06-15,126.72
+P2788,Paciente2788,30,F,Miraflores,Odontología,2024-02-28,120.12
+P2790,Paciente2790,22,F,Miraflores,Pediatría,2023-01-15,416.65
+P2800,Paciente2800,81,F,Surco,Pediatría,2024-08-18,487.12
+P2813,Paciente2813,18,M,Surco,Cardiología,2024-10-18,135.06
+P2822,Paciente2822,60,F,La Molina,Medicina General,2023-12-20,450.78
+P2823,Paciente2823,63,M,Miraflores,Medicina General,2020-02-29,282.3
+P2828,Paciente2828,6,M,Surco,Medicina General,2022-03-03,87.53
+P2834,Paciente2834,55,F,La Molina,Odontología,2023-06-16,401.28
+P2847,Paciente2847,67,F,La Molina,Odontología,2020-04-18,289.25
+P2848,Paciente2848,11,M,Surco,Odontología,2020-12-27,66.98
+P2849,Paciente2849,3,M,Miraflores,Odontología,2021-06-14,193.55
+P2852,Paciente2852,29,M,Surco,Odontología,2020-01-30,434.81
+P2868,Paciente2868,65,M,Surco,Pediatría,2024-03-18,449.49
+P2869,Paciente2869,73,F,La Molina,Medicina General,2020-08-02,167.02
+P2879,Paciente2879,36,F,Surco,Pediatría,2022-09-24,239.19
+P2890,Paciente2890,46,F,La Molina,Odontología,2024-06-11,106.04
+P2901,Paciente2901,42,M,La Molina,Pediatría,2024-04-25,295.54
+P2911,Paciente2911,32,M,Surco,Odontología,2021-10-21,171.81
+P2921,Paciente2921,69,M,Surco,Cardiología,2021-08-11,346.75
+P2927,Paciente2927,63,M,Miraflores,Cardiología,2022-09-15,104.14
+P2933,Paciente2933,70,M,San Borja,Medicina General,2022-02-14,498.41
+P2937,Paciente2937,31,F,San Borja,Odontología,2022-03-09,222.88
+P2942,Paciente2942,66,F,La Molina,Odontología,2022-08-21,200.03
+P2945,Paciente2945,57,F,Miraflores,Odontología,2023-06-29,187.05
+P2947,Paciente2947,69,F,La Molina,Pediatría,2024-12-21,128.83
+P2954,Paciente2954,64,M,Miraflores,Odontología,2021-10-09,224.7
+P2958,Paciente2958,57,F,San Borja,Cardiología,2021-10-13,314.09
+P2961,Paciente2961,48,F,Miraflores,Pediatría,2021-04-18,305.05
+P2962,Paciente2962,90,M,Miraflores,Pediatría,2021-11-09,321.36
+P2966,Paciente2966,42,F,Miraflores,Pediatría,2022-06-02,287.69
+P2968,Paciente2968,33,F,Surco,Pediatría,2022-09-10,397.68
+P2969,Paciente2969,10,F,Surco,Medicina General,2020-05-10,336.0
+P2971,Paciente2971,43,F,San Borja,Odontología,2024-11-26,273.94
+P2976,Paciente2976,84,M,San Borja,Pediatría,2023-06-08,336.87
+P2978,Paciente2978,2,M,La Molina,Medicina General,2023-11-02,53.49
+P2988,Paciente2988,87,F,Surco,Cardiología,2022-08-30,371.26
+P2991,Paciente2991,86,M,Surco,Medicina General,2024-05-14,492.71
+P2997,Paciente2997,29,M,San Borja,Cardiología,2023-05-15,381.28
