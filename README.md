@@ -34,3 +34,23 @@ Se creó el archivo `base.csv` con la estructura de columnas:
 - `servicio`
 - `fecha_atencion`
 - `monto`
+
+## 🧩 Fase 4 – Generación de Datos Simulados
+
+Se generó el archivo `pacientes.csv` con 3000 registros aleatorios, incluyendo:
+
+- Campos nulos y valores “NA” en sexo, distrito y servicio
+- Fechas aleatorias entre 2020 y 2025
+- Montos entre S/ 50 y S/ 500
+
+Este archivo alimentará el proceso ETL en la siguiente fase.
+
+## 🧩 Fase 5 – Proceso ETL
+
+Se procesó el archivo `pacientes.csv` para:
+
+- Reemplazar valores nulos y “NA” en sexo, servicio y distrito
+- Validar formato de fechas
+- Eliminar duplicados y registros incompletos
+
+Resultado: `pacientes_clean.csv` listo para ser cargado en MongoDB.
